@@ -1,0 +1,20 @@
+{
+  "name": "tranquil-breeze-validator",
+  "version": "1.1.1",
+  "description": "A validator library powered by joi, validator, and isemail.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mossiney/tranquil-breeze-validator"
+  },
+  "keywords": ["validator", "validation", "joi", "isemail"],
+  "license": "MIT",
+  "dependencies": {
+    "joi": "^17.0.0",
+    "validator": "^13.0.0",
+    "isemail": "^4.0.0"
+  }
+}
